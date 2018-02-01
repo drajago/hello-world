@@ -1,5 +1,4 @@
 # hello-world
-Just another repository
 
 This is GitHub, the best repository in town.
 
